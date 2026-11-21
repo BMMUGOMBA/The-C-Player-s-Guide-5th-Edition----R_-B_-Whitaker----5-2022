@@ -3,6 +3,7 @@
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="The Makings of a Programmer/The Makings of a Programmer.csproj" />
   <Project Path="The Thing Namer 3000/The Thing Namer 3000.csproj" />
+  <Project Path="The Triangle Farmer/The Triangle Farmer.csproj" />
   <Project Path="The Variable Shop Returns/The Variable Shop Returns.csproj" />
   <Project Path="The Variable Shop/The Variable Shop.csproj" />
 </Solution>
