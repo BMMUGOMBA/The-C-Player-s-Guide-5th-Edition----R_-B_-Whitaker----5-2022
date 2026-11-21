@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="Buying Inventory/Buying Inventory.csproj" />
   <Project Path="Consolas and Telim/Consolas and Telim.csproj" />
+  <Project Path="Discounted Inventory/Discounted Inventory.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Repairing the Clocktower/Repairing the Clocktower.csproj" />
   <Project Path="The Defense of Consolas/The Defense of Consolas.csproj" />
