@@ -4,6 +4,7 @@
   <Project Path="Countdown/Countdown.csproj" />
   <Project Path="Discounted Inventory/Discounted Inventory.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="Hunting the Manticore/Hunting the Manticore.csproj" />
   <Project Path="Repairing the Clocktower/Repairing the Clocktower.csproj" />
   <Project Path="Taking a Number/Taking a Number.csproj" />
   <Project Path="The Defense of Consolas/The Defense of Consolas.csproj" />
