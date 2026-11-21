@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Consolas and Telim/Consolas and Telim.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="Repairing the Clocktower/Repairing the Clocktower.csproj" />
   <Project Path="The Defense of Consolas/The Defense of Consolas.csproj" />
   <Project Path="The Dominion of Kings/The Dominion of Kings.csproj" />
   <Project Path="The Four Sisters and the Duckbear/The Four Sisters and the Duckbear.csproj" />
