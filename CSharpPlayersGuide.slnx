@@ -10,10 +10,12 @@
   <Project Path="Simula’s Soup/Simula’s Soup.csproj" />
   <Project Path="Simula’s Test/Simula’s Test.csproj" />
   <Project Path="Taking a Number/Taking a Number.csproj" />
+  <Project Path="The Card/The Card.csproj" />
   <Project Path="The Color/The Color.csproj" />
   <Project Path="The Defense of Consolas/The Defense of Consolas.csproj" />
   <Project Path="The Dominion of Kings/The Dominion of Kings.csproj" />
   <Project Path="The Four Sisters and the Duckbear/The Four Sisters and the Duckbear.csproj" />
+  <Project Path="The Locked Door/The Locked Door.csproj" />
   <Project Path="The Magic Cannon/The Magic Cannon.csproj" />
   <Project Path="The Makings of a Programmer/The Makings of a Programmer.csproj" />
   <Project Path="The Point/The Point.csproj" />
