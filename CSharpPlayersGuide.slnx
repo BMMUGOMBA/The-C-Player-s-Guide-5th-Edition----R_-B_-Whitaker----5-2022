@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Arrow Factories/Arrow Factories.csproj" />
   <Project Path="Buying Inventory/Buying Inventory.csproj" />
   <Project Path="Consolas and Telim/Consolas and Telim.csproj" />
   <Project Path="Countdown/Countdown.csproj" />
@@ -14,6 +15,7 @@
   <Project Path="The Four Sisters and the Duckbear/The Four Sisters and the Duckbear.csproj" />
   <Project Path="The Magic Cannon/The Magic Cannon.csproj" />
   <Project Path="The Makings of a Programmer/The Makings of a Programmer.csproj" />
+  <Project Path="The Point/The Point.csproj" />
   <Project Path="The Prototype/The Prototype.csproj" />
   <Project Path="The Replicator of D’To/The Replicator of D’To.csproj" />
   <Project Path="The Thing Namer 3000/The Thing Namer 3000.csproj" />
