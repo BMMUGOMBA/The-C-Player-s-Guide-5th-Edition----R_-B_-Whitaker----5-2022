@@ -7,6 +7,7 @@
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Hunting the Manticore/Hunting the Manticore.csproj" />
   <Project Path="Repairing the Clocktower/Repairing the Clocktower.csproj" />
+  <Project Path="Rock-Paper-Scissors/Rock-Paper-Scissors.csproj" />
   <Project Path="Simula’s Soup/Simula’s Soup.csproj" />
   <Project Path="Simula’s Test/Simula’s Test.csproj" />
   <Project Path="Taking a Number/Taking a Number.csproj" />
@@ -18,6 +19,7 @@
   <Project Path="The Locked Door/The Locked Door.csproj" />
   <Project Path="The Magic Cannon/The Magic Cannon.csproj" />
   <Project Path="The Makings of a Programmer/The Makings of a Programmer.csproj" />
+  <Project Path="The Password Validator/The Password Validator.csproj" />
   <Project Path="The Point/The Point.csproj" />
   <Project Path="The Prototype/The Prototype.csproj" />
   <Project Path="The Replicator of D’To/The Replicator of D’To.csproj" />
