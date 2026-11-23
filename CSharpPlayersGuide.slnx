@@ -5,6 +5,7 @@
   <Project Path="Consolas and Telim/Consolas and Telim.csproj" />
   <Project Path="Countdown/Countdown.csproj" />
   <Project Path="Discounted Inventory/Discounted Inventory.csproj" />
+  <Project Path="Hangman/Hangman.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Hunting the Manticore/Hunting the Manticore.csproj" />
   <Project Path="Repairing the Clocktower/Repairing the Clocktower.csproj" />
