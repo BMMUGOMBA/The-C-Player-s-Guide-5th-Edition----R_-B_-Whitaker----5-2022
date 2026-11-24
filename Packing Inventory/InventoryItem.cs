@@ -8,4 +8,5 @@ internal class InventoryItem
         Weight = weight;
         Volume = volume;
     }
+    
 }
