@@ -2,6 +2,7 @@
   <Project Path="15-Puzzle/15-Puzzle.csproj" />
   <Project Path="Arrow Factories/Arrow Factories.csproj" />
   <Project Path="Buying Inventory/Buying Inventory.csproj" />
+  <Project Path="Colored Items/Colored Items.csproj" />
   <Project Path="Consolas and Telim/Consolas and Telim.csproj" />
   <Project Path="Countdown/Countdown.csproj" />
   <Project Path="Discounted Inventory/Discounted Inventory.csproj" />
