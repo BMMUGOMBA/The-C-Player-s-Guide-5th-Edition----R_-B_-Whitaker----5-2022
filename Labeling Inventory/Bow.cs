@@ -4,4 +4,9 @@ internal class Bow : InventoryItem
     {
         
     }
+
+     public override string ToString()
+    {
+        return "Bow";
+    }
 }

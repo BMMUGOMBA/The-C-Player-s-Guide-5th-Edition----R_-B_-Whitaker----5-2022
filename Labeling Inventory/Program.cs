@@ -9,11 +9,17 @@ internal class Program
         {
             Console.WriteLine();
 
+            // Display the current pack contents.
+            Console.WriteLine(pack.ToString());
+
             Console.WriteLine(
-                $"Pack currently contains " +
-                $"{pack.CurrentCount}/{pack.MaxCount} items, " +
-                $"{pack.CurrentWeight:F2}/{pack.MaxWeight} weight, " +
-                $"{pack.CurrentVolume:F2}/{pack.MaxVolume} volume.");
+                $"Items: {pack.CurrentCount}/{pack.MaxCount}");
+
+            Console.WriteLine(
+                $"Weight: {pack.CurrentWeight:F2}/{pack.MaxWeight}");
+
+            Console.WriteLine(
+                $"Volume: {pack.CurrentVolume:F2}/{pack.MaxVolume}");
 
             Console.WriteLine();
             Console.WriteLine("1. Arrow");
@@ -54,12 +60,12 @@ internal class Program
 
             if (added)
             {
-                Console.WriteLine("Item successfully added.");
+                Console.WriteLine($"{item} successfully added.");
             }
             else
             {
                 Console.WriteLine(
-                    "Cannot add item. Pack limit exceeded.");
+                    $"Cannot add {item}. Pack limit exceeded.");
             }
         }
     }

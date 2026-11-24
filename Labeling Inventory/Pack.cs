@@ -1,14 +1,15 @@
+
 internal class Pack
 {
     private readonly InventoryItem?[] _items;
 
-    public int MaxCount {get;}
-    public double MaxWeight {get;}
-    public double MaxVolume {get;}
+    public int MaxCount { get; }
+    public double MaxWeight { get; }
+    public double MaxVolume { get; }
 
-    public int CurrentCount {get; private set;}
-    public double CurrentWeight {get; private set;}
-    public double CurrentVolume {get; private set;}
+    public int CurrentCount { get; private set; }
+    public double CurrentWeight { get; private set; }
+    public double CurrentVolume { get; private set; }
 
     public Pack(int maxCount, double maxWeight, double maxVolume)
     {
@@ -16,22 +17,22 @@ internal class Pack
         MaxWeight = maxWeight;
         MaxVolume = maxVolume;
 
-        _items  = new InventoryItem?[maxCount];
+        _items = new InventoryItem?[maxCount];
     }
 
     public bool Add(InventoryItem item)
     {
-        if(CurrentCount >= MaxCount)
+        if (CurrentCount >= MaxCount)
         {
             return false;
         }
 
-        if(CurrentWeight + item.Weight > MaxWeight)
+        if (CurrentWeight + item.Weight > MaxWeight)
         {
             return false;
         }
 
-        if(CurrentVolume + item.Volume > MaxVolume)
+        if (CurrentVolume + item.Volume > MaxVolume)
         {
             return false;
         }
@@ -43,5 +44,22 @@ internal class Pack
         CurrentVolume += item.Volume;
 
         return true;
+    }
+
+    public override string ToString()
+    {
+        if (CurrentCount == 0)
+        {
+            return "Pack is empty.";
+        }
+
+        string description = "Pack containing";
+
+        for (int i = 0; i < CurrentCount; i++)
+        {
+            description += " " + _items[i];
+        }
+
+        return description;
     }
 }

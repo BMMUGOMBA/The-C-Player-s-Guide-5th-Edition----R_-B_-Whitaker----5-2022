@@ -4,4 +4,9 @@ internal class Water : InventoryItem
     {
         
     }
+
+     public override string ToString()
+    {
+        return "Water";
+    }
 }

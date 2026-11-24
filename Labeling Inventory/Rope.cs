@@ -4,4 +4,9 @@ internal class Rope : InventoryItem
     {
         
     }
+
+     public override string ToString()
+    {
+        return "Rope";
+    }
 }

@@ -4,4 +4,9 @@ internal class FoodRations : InventoryItem
     {
         
     }
+
+     public override string ToString()
+    {
+        return "FoodRations";
+    }
 }
