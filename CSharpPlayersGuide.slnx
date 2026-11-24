@@ -11,7 +11,9 @@
   <Project Path="Labeling Inventory/Labeling Inventory.csproj" />
   <Project Path="Packing Inventory/Packing Inventory.csproj" />
   <Project Path="Repairing the Clocktower/Repairing the Clocktower.csproj" />
+  <Project Path="Robotic Interface/Robotic Interface.csproj" />
   <Project Path="Rock-Paper-Scissors/Rock-Paper-Scissors.csproj" />
+  <Project Path="Room Coordinates/Room Coordinates.csproj" />
   <Project Path="Simula’s Soup/Simula’s Soup.csproj" />
   <Project Path="Simula’s Test/Simula’s Test.csproj" />
   <Project Path="Taking a Number/Taking a Number.csproj" />
